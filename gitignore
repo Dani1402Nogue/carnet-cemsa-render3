@@ -1,0 +1,22 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos temporales
+*.pyc
+__pycache__/
+
+# Archivos de configuración personales
+*.log
+*.sqlite3
+
+# WebDriver descargado por webdriver-manager
+~/.wdm/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuraciones de VSCode u otros editores
+.vscode/
+.idea/
